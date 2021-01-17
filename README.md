@@ -21,4 +21,5 @@ I'm Prateek Bansal 😀 and currently pursuing my engineering in the field of Co
 ### Projects 👨‍💻
 [CodeConnect](https://codeconnect1.herokuapp.com/) &nbsp;&nbsp;||&nbsp;&nbsp;[BrainHealth](https://brain-health.herokuapp.com/) &nbsp;&nbsp;||&nbsp;&nbsp; [LazzyList](https://mrpkdeveloper.github.io/LAZZY-LIST-/) &nbsp;&nbsp;|| &nbsp;&nbsp;[Emoji-Slot-game](https://mrpkdeveloper.github.io/THE_MOOJI--SLOT-MACHINE-/)
 
-![Prateek's github stats](https://github-readme-stats.vercel.app/api?username=mrpkdeveloper&show_icons=true&hide_border=true)
+<hr>
+|<img src="https://github-readme-stats.vercel.app/api?username=mrpkdeveloper&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpkdeveloper"/>|
