@@ -26,3 +26,4 @@ I'm Prateek Bansal 😀 and currently pursuing my engineering in the field of Co
 |<img src="https://github-readme-stats.vercel.app/api?username=mrpkdeveloper&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpkdeveloper"/>|
 |---|---|
 
+![Visitor Count](https://profile-counter.glitch.me/{mrpkdeveloper}/count.svg)
