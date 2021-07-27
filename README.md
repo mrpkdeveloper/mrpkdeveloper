@@ -8,7 +8,7 @@
 <h2 align="center">  Hello World 👋🌎! </h2>
 
 <p align="center">
-I'm Prateek Bansal 😀 and currently pursuing my engineering in the field of Computer Science 👨‍💻 .The best part about me is that I am eager to learn.Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.I have experiences in programming languages like C++, Java and Javascript . I'm a full stack NodeJs developer,stepping in React development....In some parallel world I'm a gym bunny💪..❤ coffee ☕ .  
+I'm Prateek Bansal 😀 and currently pursuing my engineering in the field of Computer Science 👨‍💻 .The best part about me is that I am eager to learn.Although sometimes feel frustrated on not getting appropriate results ,but that motivates me to even work harder 🔥.I have experience in programming language like Java. I'm a full stack NodeJs developer,stepping in React development....In some parallel world I'm a gym bunny💪..❤ coffee ☕ .  
 </p>
 
 
