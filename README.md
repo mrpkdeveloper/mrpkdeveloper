@@ -15,7 +15,7 @@ I'm Prateek Bansal 😀 and currently pursuing my engineering in the field of Co
 ### Learning ✨🤓
 - 🌱 I’m currently building some projects in NodeJs and React.
 - 👯 I’m looking to collaborate on amazing web projects. 
-- 📫 Connect Me on : [Linkedin](https://www.linkedin.com/in/prateek-bansal-734b191a4?).
+- 📫 Checkout : [My Website](https://www.prateekbansal.co.in).
 - ⚡ Fun fact: I add sugar to my coffee ☕ 😂😂
 
 ### Projects 👨‍💻
